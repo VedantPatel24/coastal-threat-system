@@ -1,0 +1,121 @@
+Maintenance_ID,Location,Section_ID,Inspection_Date,Condition_Status,Damage_Type,Length_Affected_m,Repair_Action,Material_Used,Cost_Estimate_INR,Work_Status,Contractor/Agency,Next_Inspection_Date,Remarks
+MWT001,Surat,Section-7,2025-06-21,Moderate,Settlement,430,Full Replacement,Composite Material,2024643,Planned,Govt Agency,2025-12-27,
+MWT002,Diu,Section-4,2025-07-25,Needs Repair,Settlement,305,Patching,Composite Material,1431809,In Progress,Marine Infra Ltd,2025-11-10,Minor cracks observed
+MWT003,Kandla,Section-12,2024-03-28,Critical,Cracks,39,Clearing Vegetation,Geo-bags,4469525,Completed,Marine Infra Ltd,2024-12-10,No major issue
+MWT004,Diu,Section-16,2024-05-21,Good,Settlement,498,Clearing Vegetation,Concrete,4338998,Completed,Govt Agency,2024-09-12,Monitoring required
+MWT005,Porbandar,Section-7,2024-01-07,Moderate,Erosion,242,Patching,Geo-bags,164699,Planned,Local Contractor,2024-06-29,Monitoring required
+MWT006,Veraval,Section-8,2025-07-21,Critical,Erosion,59,Raising Wall,Steel Reinforcement,2086239,In Progress,Govt Agency,2025-12-18,No major issue
+MWT007,Okha,Section-5,2023-08-10,Good,Scour,213,Raising Wall,Rock Boulders,4973503,Completed,Local Contractor,2024-03-26,Minor cracks observed
+MWT008,Veraval,Section-6,2023-07-03,Moderate,Erosion,445,Full Replacement,Rock Boulders,4492420,In Progress,Local Contractor,2024-06-21,Monitoring required
+MWT009,Bharuch,Section-17,2023-11-24,Needs Repair,Settlement,228,Full Replacement,Steel Reinforcement,1337924,Planned,Govt Agency,2024-09-30,No major issue
+MWT010,Bhavnagar,Section-3,2024-02-04,Moderate,Vegetation Growth,161,Full Replacement,Geo-bags,4002623,In Progress,Local Contractor,2024-05-22,No major issue
+MWT011,Ghogha,Section-18,2023-05-09,Critical,Wave Overtopping,12,Reinforcement,Rock Boulders,4483678,Planned,Coastal Dept,2024-04-09,Minor cracks observed
+MWT012,Ghogha,Section-1,2024-07-31,Moderate,Erosion,192,Patching,Steel Reinforcement,3249111,Completed,Marine Infra Ltd,2025-06-18,No major issue
+MWT013,Okha,Section-15,2023-01-13,Needs Repair,Wave Overtopping,274,Clearing Vegetation,Composite Material,1868936,In Progress,Coastal Dept,2023-05-10,No major issue
+MWT014,Porbandar,Section-2,2023-10-05,Moderate,Scour,146,Full Replacement,Geo-bags,627708,In Progress,Govt Agency,2024-05-30,Monitoring required
+MWT015,Diu,Section-14,2025-06-03,Moderate,None,358,Full Replacement,Rock Boulders,4025263,Completed,Marine Infra Ltd,2025-12-25,No major issue
+MWT016,Ghogha,Section-18,2023-01-15,Moderate,Vegetation Growth,47,Raising Wall,Steel Reinforcement,4761436,Planned,Govt Agency,2023-07-21,Minor cracks observed
+MWT017,Kandla,Section-5,2022-05-24,Good,Vegetation Growth,71,Full Replacement,Steel Reinforcement,2520489,Planned,Coastal Dept,2023-03-15,
+MWT018,Mundra,Section-7,2022-09-20,Good,Cracks,475,Clearing Vegetation,Rock Boulders,338806,In Progress,Local Contractor,2023-09-11,Minor cracks observed
+MWT019,Mundra,Section-14,2025-05-18,Good,Vegetation Growth,294,Inspection Only,Concrete,4004174,Completed,Local Contractor,2026-04-26,
+MWT020,Porbandar,Section-19,2022-06-28,Needs Repair,Erosion,105,Inspection Only,Composite Material,4769732,In Progress,Harbor Maintenance Board,2023-04-28,Monitoring required
+MWT021,Diu,Section-2,2023-03-29,Needs Repair,Vegetation Growth,297,Full Replacement,Geo-bags,3374621,Completed,Marine Infra Ltd,2023-11-18,Minor cracks observed
+MWT022,Ghogha,Section-4,2024-02-19,Needs Repair,Cracks,292,Full Replacement,Rock Boulders,3155898,Planned,Govt Agency,2024-08-02,No major issue
+MWT023,Porbandar,Section-18,2025-06-16,Critical,Wave Overtopping,241,Reinforcement,Concrete,433001,Completed,Harbor Maintenance Board,2025-10-31,Minor cracks observed
+MWT024,Porbandar,Section-1,2023-10-14,Critical,None,186,Patching,Concrete,2232297,Planned,Marine Infra Ltd,2024-06-09,Monitoring required
+MWT025,Ghogha,Section-18,2025-05-11,Moderate,Cracks,159,Clearing Vegetation,Steel Reinforcement,4486363,Planned,Harbor Maintenance Board,2026-04-03,Urgent repair needed
+MWT026,Porbandar,Section-4,2024-07-12,Good,Scour,87,Patching,Concrete,505711,Planned,Coastal Dept,2024-12-27,No major issue
+MWT027,Surat,Section-17,2025-05-04,Critical,Erosion,450,Patching,Geo-bags,833254,Completed,Harbor Maintenance Board,2025-11-08,Minor cracks observed
+MWT028,Diu,Section-9,2024-06-16,Good,Vegetation Growth,345,Reinforcement,Rock Boulders,3690622,Planned,Govt Agency,2025-03-15,Urgent repair needed
+MWT029,Bhavnagar,Section-2,2025-02-16,Moderate,Scour,455,Inspection Only,Rock Boulders,149346,In Progress,Coastal Dept,2025-11-21,
+MWT030,Veraval,Section-13,2025-01-31,Needs Repair,Vegetation Growth,346,Raising Wall,Rock Boulders,4942326,In Progress,Coastal Dept,2025-10-12,
+MWT031,Porbandar,Section-11,2024-08-11,Good,Wave Overtopping,174,Raising Wall,Geo-bags,1709022,Completed,Marine Infra Ltd,2025-03-02,No major issue
+MWT032,Diu,Section-3,2024-04-01,Needs Repair,Vegetation Growth,267,Inspection Only,Geo-bags,3055837,Completed,Harbor Maintenance Board,2024-09-20,
+MWT033,Veraval,Section-17,2023-02-08,Needs Repair,Wave Overtopping,208,Full Replacement,Composite Material,2131449,Planned,Govt Agency,2023-11-13,
+MWT034,Diu,Section-8,2024-03-27,Moderate,Settlement,19,Inspection Only,Geo-bags,2855343,In Progress,Local Contractor,2024-07-30,Minor cracks observed
+MWT035,Bhavnagar,Section-15,2024-08-26,Critical,Wave Overtopping,350,Raising Wall,Geo-bags,4212395,In Progress,Harbor Maintenance Board,2025-02-13,Minor cracks observed
+MWT036,Okha,Section-4,2022-07-19,Moderate,Scour,254,Clearing Vegetation,Concrete,2557709,Planned,Harbor Maintenance Board,2022-11-05,Urgent repair needed
+MWT037,Veraval,Section-19,2025-03-25,Critical,Wave Overtopping,190,Inspection Only,Concrete,2970825,Completed,Harbor Maintenance Board,2025-10-18,Urgent repair needed
+MWT038,Kandla,Section-9,2022-03-30,Good,None,284,Full Replacement,Composite Material,122568,Planned,Coastal Dept,2022-07-03,Monitoring required
+MWT039,Porbandar,Section-7,2023-10-24,Moderate,Settlement,191,Raising Wall,Composite Material,4037523,Completed,Govt Agency,2024-07-28,Minor cracks observed
+MWT040,Ghogha,Section-13,2025-02-08,Needs Repair,Settlement,126,Full Replacement,Concrete,304882,In Progress,Govt Agency,2025-05-28,Urgent repair needed
+MWT041,Diu,Section-14,2024-03-18,Moderate,None,79,Clearing Vegetation,Rock Boulders,1253209,Planned,Marine Infra Ltd,2024-07-22,Monitoring required
+MWT042,Diu,Section-3,2023-11-01,Critical,Erosion,273,Reinforcement,Concrete,3077019,Completed,Marine Infra Ltd,2024-05-12,Minor cracks observed
+MWT043,Veraval,Section-11,2025-06-03,Critical,Scour,109,Raising Wall,Steel Reinforcement,4445002,In Progress,Harbor Maintenance Board,2025-12-02,
+MWT044,Mundra,Section-19,2023-05-26,Needs Repair,Erosion,145,Full Replacement,Composite Material,1968798,Completed,Govt Agency,2023-09-24,
+MWT045,Bharuch,Section-11,2022-09-08,Moderate,Wave Overtopping,277,Patching,Composite Material,559318,In Progress,Govt Agency,2023-03-09,Urgent repair needed
+MWT046,Veraval,Section-9,2023-10-12,Critical,None,302,Patching,Steel Reinforcement,4882794,Planned,Govt Agency,2024-01-16,Minor cracks observed
+MWT047,Ghogha,Section-2,2025-04-18,Moderate,Erosion,404,Reinforcement,Geo-bags,3166236,In Progress,Marine Infra Ltd,2025-11-27,Minor cracks observed
+MWT048,Kandla,Section-8,2024-10-31,Moderate,Erosion,311,Inspection Only,Steel Reinforcement,1066618,Planned,Harbor Maintenance Board,2025-06-16,Monitoring required
+MWT049,Diu,Section-4,2023-07-25,Needs Repair,Vegetation Growth,154,Reinforcement,Steel Reinforcement,4101377,Planned,Marine Infra Ltd,2024-01-15,No major issue
+MWT050,Kandla,Section-2,2023-09-03,Critical,Erosion,57,Reinforcement,Rock Boulders,4992360,Planned,Coastal Dept,2024-03-19,Minor cracks observed
+MWT051,Surat,Section-6,2023-12-14,Moderate,Wave Overtopping,453,Inspection Only,Steel Reinforcement,4182035,Completed,Local Contractor,2024-08-08,Urgent repair needed
+MWT052,Bhavnagar,Section-17,2024-05-01,Needs Repair,Erosion,344,Reinforcement,Composite Material,1330082,Completed,Local Contractor,2024-08-05,No major issue
+MWT053,Bhavnagar,Section-5,2024-09-06,Needs Repair,Vegetation Growth,152,Reinforcement,Steel Reinforcement,1878115,In Progress,Harbor Maintenance Board,2025-02-23,
+MWT054,Diu,Section-13,2023-05-11,Good,Scour,460,Full Replacement,Geo-bags,1796920,Planned,Govt Agency,2023-12-13,Minor cracks observed
+MWT055,Ghogha,Section-6,2024-11-03,Needs Repair,Settlement,166,Full Replacement,Composite Material,2126634,Completed,Local Contractor,2025-07-24,Urgent repair needed
+MWT056,Surat,Section-10,2024-03-06,Needs Repair,None,395,Patching,Geo-bags,615739,Completed,Marine Infra Ltd,2024-12-19,Monitoring required
+MWT057,Surat,Section-6,2022-08-09,Critical,Scour,47,Reinforcement,Concrete,3412403,In Progress,Marine Infra Ltd,2023-03-25,Urgent repair needed
+MWT058,Surat,Section-20,2023-03-23,Moderate,Wave Overtopping,337,Clearing Vegetation,Composite Material,3479876,Planned,Govt Agency,2023-07-01,
+MWT059,Surat,Section-12,2023-03-03,Critical,Vegetation Growth,65,Reinforcement,Steel Reinforcement,795221,Planned,Govt Agency,2023-12-28,Minor cracks observed
+MWT060,Ghogha,Section-6,2025-06-03,Good,None,59,Patching,Composite Material,2345822,Planned,Govt Agency,2025-09-09,
+MWT061,Okha,Section-10,2022-03-15,Good,Scour,337,Full Replacement,Concrete,2208069,Planned,Coastal Dept,2023-02-12,No major issue
+MWT062,Bharuch,Section-7,2022-09-16,Moderate,Erosion,76,Inspection Only,Steel Reinforcement,4785304,Planned,Coastal Dept,2023-09-04,Monitoring required
+MWT063,Bhavnagar,Section-18,2023-04-27,Critical,Erosion,321,Reinforcement,Geo-bags,3222418,Planned,Local Contractor,2024-04-21,No major issue
+MWT064,Veraval,Section-15,2023-12-01,Needs Repair,Erosion,461,Full Replacement,Steel Reinforcement,1141963,Completed,Coastal Dept,2024-11-09,Minor cracks observed
+MWT065,Ghogha,Section-1,2022-11-07,Moderate,Scour,418,Full Replacement,Concrete,1838447,In Progress,Govt Agency,2023-03-18,Urgent repair needed
+MWT066,Porbandar,Section-7,2023-10-20,Critical,Scour,173,Raising Wall,Composite Material,1061172,Completed,Local Contractor,2024-05-20,No major issue
+MWT067,Okha,Section-13,2023-02-04,Needs Repair,None,481,Clearing Vegetation,Composite Material,1666235,In Progress,Govt Agency,2023-06-18,No major issue
+MWT068,Surat,Section-3,2022-01-13,Good,Erosion,192,Inspection Only,Steel Reinforcement,4522722,Planned,Marine Infra Ltd,2022-06-14,No major issue
+MWT069,Surat,Section-16,2023-06-30,Good,Erosion,19,Patching,Rock Boulders,4486994,Planned,Marine Infra Ltd,2023-12-12,Monitoring required
+MWT070,Ghogha,Section-20,2023-12-20,Needs Repair,Wave Overtopping,225,Patching,Rock Boulders,4589469,In Progress,Local Contractor,2024-07-31,Monitoring required
+MWT071,Kandla,Section-12,2023-12-24,Critical,Cracks,263,Raising Wall,Geo-bags,567248,In Progress,Marine Infra Ltd,2024-08-30,
+MWT072,Veraval,Section-8,2024-03-14,Needs Repair,Wave Overtopping,155,Clearing Vegetation,Concrete,256375,Planned,Local Contractor,2024-08-22,Urgent repair needed
+MWT073,Mundra,Section-1,2024-05-07,Good,Settlement,23,Clearing Vegetation,Concrete,2390740,Completed,Marine Infra Ltd,2025-02-04,Monitoring required
+MWT074,Kandla,Section-20,2023-02-05,Critical,Wave Overtopping,153,Clearing Vegetation,Steel Reinforcement,3422913,In Progress,Harbor Maintenance Board,2023-11-15,No major issue
+MWT075,Mundra,Section-1,2024-03-13,Needs Repair,Erosion,458,Reinforcement,Geo-bags,2193690,In Progress,Harbor Maintenance Board,2024-11-14,Urgent repair needed
+MWT076,Surat,Section-19,2022-08-15,Moderate,None,247,Patching,Steel Reinforcement,668225,In Progress,Harbor Maintenance Board,2022-11-16,Monitoring required
+MWT077,Porbandar,Section-15,2025-08-20,Moderate,Erosion,259,Raising Wall,Composite Material,3083191,Completed,Govt Agency,2026-06-08,Minor cracks observed
+MWT078,Kandla,Section-6,2023-05-14,Critical,Scour,303,Reinforcement,Concrete,2329169,Completed,Coastal Dept,2023-09-18,Urgent repair needed
+MWT079,Veraval,Section-11,2022-12-19,Moderate,Scour,164,Full Replacement,Rock Boulders,4555687,Planned,Marine Infra Ltd,2023-11-07,Minor cracks observed
+MWT080,Porbandar,Section-8,2024-11-17,Moderate,Wave Overtopping,425,Patching,Geo-bags,1271909,Planned,Harbor Maintenance Board,2025-05-24,Monitoring required
+MWT081,Kandla,Section-6,2023-04-08,Critical,Vegetation Growth,475,Raising Wall,Steel Reinforcement,1618208,Planned,Marine Infra Ltd,2024-01-31,Minor cracks observed
+MWT082,Surat,Section-19,2022-08-22,Moderate,Erosion,312,Reinforcement,Steel Reinforcement,3100919,Completed,Marine Infra Ltd,2023-06-11,Minor cracks observed
+MWT083,Okha,Section-11,2024-05-22,Critical,Scour,139,Reinforcement,Composite Material,4543375,In Progress,Marine Infra Ltd,2024-12-22,
+MWT084,Mundra,Section-15,2024-01-22,Good,Scour,468,Clearing Vegetation,Rock Boulders,1545845,Planned,Govt Agency,2024-04-22,Urgent repair needed
+MWT085,Surat,Section-6,2024-08-31,Critical,Settlement,194,Clearing Vegetation,Rock Boulders,4858504,Planned,Harbor Maintenance Board,2025-06-02,Urgent repair needed
+MWT086,Bhavnagar,Section-18,2023-07-05,Critical,Cracks,480,Inspection Only,Rock Boulders,4031207,Completed,Coastal Dept,2023-11-15,Minor cracks observed
+MWT087,Veraval,Section-1,2024-08-17,Needs Repair,Settlement,465,Inspection Only,Composite Material,3681679,In Progress,Govt Agency,2025-06-06,Minor cracks observed
+MWT088,Surat,Section-19,2023-12-04,Moderate,Wave Overtopping,193,Inspection Only,Rock Boulders,2256951,Planned,Harbor Maintenance Board,2024-08-18,Urgent repair needed
+MWT089,Ghogha,Section-13,2022-03-07,Moderate,Settlement,356,Patching,Steel Reinforcement,2558708,Completed,Harbor Maintenance Board,2022-11-02,Monitoring required
+MWT090,Okha,Section-8,2025-04-13,Needs Repair,Settlement,135,Reinforcement,Composite Material,2751991,Planned,Govt Agency,2025-08-31,
+MWT091,Bhavnagar,Section-6,2025-06-23,Critical,Wave Overtopping,446,Clearing Vegetation,Composite Material,2803393,In Progress,Coastal Dept,2026-04-19,
+MWT092,Porbandar,Section-9,2024-08-02,Good,Scour,353,Clearing Vegetation,Concrete,2699067,In Progress,Govt Agency,2025-07-29,
+MWT093,Bhavnagar,Section-11,2023-06-08,Good,Settlement,309,Clearing Vegetation,Concrete,4364804,Completed,Govt Agency,2024-01-20,No major issue
+MWT094,Bharuch,Section-1,2023-01-28,Good,Vegetation Growth,71,Reinforcement,Composite Material,4533422,In Progress,Govt Agency,2023-09-18,Minor cracks observed
+MWT095,Mundra,Section-20,2024-09-11,Critical,None,325,Patching,Composite Material,4085848,Planned,Marine Infra Ltd,2025-02-22,Urgent repair needed
+MWT096,Surat,Section-17,2023-04-26,Needs Repair,Settlement,142,Raising Wall,Rock Boulders,1841869,Completed,Govt Agency,2024-01-03,Minor cracks observed
+MWT097,Bhavnagar,Section-10,2025-03-12,Critical,Settlement,162,Inspection Only,Geo-bags,3483501,In Progress,Harbor Maintenance Board,2025-10-19,Monitoring required
+MWT098,Mundra,Section-4,2025-06-12,Moderate,Vegetation Growth,43,Inspection Only,Rock Boulders,1515526,Planned,Local Contractor,2025-09-15,
+MWT099,Bharuch,Section-5,2022-07-09,Moderate,Erosion,169,Raising Wall,Rock Boulders,2179675,Planned,Local Contractor,2023-03-23,Minor cracks observed
+MWT100,Kandla,Section-5,2023-09-25,Critical,Erosion,312,Inspection Only,Concrete,911219,Completed,Govt Agency,2024-03-28,No major issue
+MWT101,Bhavnagar,Section-18,2023-07-12,Critical,Wave Overtopping,336,Raising Wall,Steel Reinforcement,411737,In Progress,Marine Infra Ltd,2023-10-25,Urgent repair needed
+MWT102,Porbandar,Section-17,2024-06-27,Critical,None,201,Reinforcement,Composite Material,4759612,Completed,Coastal Dept,2024-12-04,
+MWT103,Surat,Section-4,2024-05-18,Critical,None,331,Clearing Vegetation,Concrete,4300791,Completed,Harbor Maintenance Board,2024-10-30,Monitoring required
+MWT104,Porbandar,Section-6,2022-02-04,Needs Repair,Cracks,32,Inspection Only,Steel Reinforcement,67832,In Progress,Harbor Maintenance Board,2022-12-20,No major issue
+MWT105,Diu,Section-9,2025-04-16,Critical,Wave Overtopping,68,Reinforcement,Concrete,3959804,Planned,Harbor Maintenance Board,2025-09-02,Monitoring required
+MWT106,Kandla,Section-7,2022-06-22,Good,Scour,269,Clearing Vegetation,Geo-bags,3653502,Completed,Govt Agency,2023-01-15,Urgent repair needed
+MWT107,Kandla,Section-3,2024-04-04,Moderate,Settlement,181,Clearing Vegetation,Geo-bags,4281257,Planned,Govt Agency,2025-01-14,Urgent repair needed
+MWT108,Porbandar,Section-3,2023-10-03,Good,Wave Overtopping,179,Full Replacement,Rock Boulders,3049881,Planned,Local Contractor,2024-07-13,No major issue
+MWT109,Diu,Section-18,2025-03-25,Needs Repair,Erosion,182,Inspection Only,Steel Reinforcement,3184149,Planned,Coastal Dept,2025-08-28,No major issue
+MWT110,Diu,Section-11,2022-10-01,Critical,Wave Overtopping,472,Full Replacement,Concrete,3439736,In Progress,Harbor Maintenance Board,2023-01-15,Urgent repair needed
+MWT111,Ghogha,Section-6,2022-09-23,Moderate,None,85,Patching,Steel Reinforcement,1504034,In Progress,Harbor Maintenance Board,2023-09-13,Monitoring required
+MWT112,Bharuch,Section-6,2023-02-01,Needs Repair,Cracks,118,Clearing Vegetation,Rock Boulders,924956,Completed,Coastal Dept,2023-07-21,No major issue
+MWT113,Okha,Section-3,2022-06-02,Moderate,Wave Overtopping,403,Patching,Composite Material,4665322,In Progress,Marine Infra Ltd,2023-04-24,Monitoring required
+MWT114,Porbandar,Section-10,2023-03-30,Moderate,Wave Overtopping,365,Reinforcement,Composite Material,3289246,In Progress,Marine Infra Ltd,2023-12-09,No major issue
+MWT115,Diu,Section-4,2024-09-07,Moderate,Erosion,387,Full Replacement,Steel Reinforcement,367419,Completed,Coastal Dept,2025-04-28,Urgent repair needed
+MWT116,Bhavnagar,Section-1,2022-03-26,Needs Repair,Wave Overtopping,144,Inspection Only,Geo-bags,2182163,Completed,Govt Agency,2022-09-22,Urgent repair needed
+MWT117,Ghogha,Section-3,2024-02-19,Critical,None,236,Reinforcement,Composite Material,4838599,Planned,Govt Agency,2024-08-28,No major issue
+MWT118,Kandla,Section-11,2023-03-06,Good,Settlement,340,Patching,Rock Boulders,1293063,Planned,Marine Infra Ltd,2023-12-02,
+MWT119,Porbandar,Section-3,2023-10-05,Moderate,None,160,Raising Wall,Concrete,3120785,In Progress,Local Contractor,2024-02-20,Monitoring required
+MWT120,Bharuch,Section-11,2023-05-09,Good,Settlement,126,Inspection Only,Rock Boulders,1931898,In Progress,Coastal Dept,2024-02-07,Monitoring required

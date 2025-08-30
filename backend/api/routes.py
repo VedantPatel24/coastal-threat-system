@@ -2,9 +2,10 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from typing import List, Dict
 import json
+import hashlib
 from datetime import datetime, timedelta
 
-from db.models import get_db, WeatherData, TideData
+from db.models import get_db, WeatherData, TideData, User
 from services.unified_data_service import UnifiedDataService
 from services.simple_alert_service import SimpleAlertService
 from services.flood_prediction_service import FloodPredictionService
@@ -16,6 +17,116 @@ data_service = UnifiedDataService()
 alert_service = SimpleAlertService()
 flood_predictor = FloodPredictionService()
 
+# Authentication routes
+@router.post("/auth/register")
+async def register_user(
+    email: str,
+    department: str,
+    password: str,
+    db: Session = Depends(get_db)
+):
+    """Register a new user"""
+    try:
+        # Check if user already exists
+        existing_user = db.query(User).filter(User.email == email).first()
+        if existing_user:
+            raise HTTPException(status_code=400, detail="User with this email already exists")
+        
+        # Hash password (simple SHA-256 for demo)
+        password_hash = hashlib.sha256(password.encode()).hexdigest()
+        
+        # Create new user
+        new_user = User(
+            email=email,
+            department=department,
+            password_hash=password_hash
+        )
+        
+        db.add(new_user)
+        db.commit()
+        db.refresh(new_user)
+        
+        return {
+            "status": "success",
+            "message": "User registered successfully",
+            "user": {
+                "id": new_user.id,
+                "email": new_user.email,
+                "department": new_user.department,
+                "created_at": new_user.created_at
+            }
+        }
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        db.rollback()
+        raise HTTPException(status_code=500, detail=f"Registration failed: {str(e)}")
+
+@router.post("/auth/login")
+async def login_user(
+    email: str,
+    password: str,
+    department: str,
+    db: Session = Depends(get_db)
+):
+    """Login user"""
+    try:
+        # Hash password for comparison
+        password_hash = hashlib.sha256(password.encode()).hexdigest()
+        
+        # Find user
+        user = db.query(User).filter(
+            User.email == email,
+            User.password_hash == password_hash,
+            User.department == department
+        ).first()
+        
+        if not user:
+            raise HTTPException(status_code=401, detail="Invalid credentials")
+        
+        # Update last login
+        user.last_login = datetime.utcnow()
+        db.commit()
+        
+        return {
+            "status": "success",
+            "message": "Login successful",
+            "user": {
+                "id": user.id,
+                "email": user.email,
+                "department": user.department,
+                "role": user.department.lower().replace(" ", "_").replace("-", "_")
+            }
+        }
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Login failed: {str(e)}")
+
+@router.get("/auth/users")
+async def get_users(db: Session = Depends(get_db)):
+    """Get all users (for admin purposes)"""
+    try:
+        users = db.query(User).all()
+        return {
+            "status": "success",
+            "users": [
+                {
+                    "id": user.id,
+                    "email": user.email,
+                    "department": user.department,
+                    "created_at": user.created_at,
+                    "last_login": user.last_login,
+                    "is_active": user.is_active
+                }
+                for user in users
+            ]
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to fetch users: {str(e)}")
+
 @router.get("/")
 async def root():
     """Root endpoint with system information"""
@@ -25,6 +136,11 @@ async def root():
         "status": "operational",
         "description": "AI-Powered Coastal Monitoring & Early Warning System for Gujarat State",
         "endpoints": {
+            "auth": {
+                "register": "/api/auth/register - Register new user",
+                "login": "/api/auth/login - User login",
+                "users": "/api/auth/users - Get all users"
+            },
             "data": "/api/data/{location} - Get coastal data for specific Gujarat location",
             "locations": "/api/locations - Get available Gujarat coastal cities",
             "alerts": "/api/alerts - Get active alerts",

@@ -1,0 +1,71 @@
+Drill_ID,Location,Date,Disaster_Type,Participants_Count,Organized_By,Remarks
+DRL001,Veraval,2022-09-30,Fire,328,Medical Team,Well-coordinated
+DRL002,Surat,2023-06-28,Flood,107,Medical Team,Well-coordinated
+DRL003,Okha,2023-07-21,Fire,440,Medical Team,Successful
+DRL004,Kandla,2024-05-14,Cyclone,371,NDRF,Successful
+DRL005,Surat,2023-11-28,Earthquake,61,Medical Team,Successful
+DRL006,Bhavnagar,2022-08-17,Fire,212,Local NGO,Well-coordinated
+DRL007,Mundra,2025-07-29,Flood,157,NDRF,Needs Improvement
+DRL008,Veraval,2022-05-19,Cyclone,328,Red Cross,Needs Improvement
+DRL009,Mundra,2023-05-25,Earthquake,85,Red Cross,Needs Improvement
+DRL010,Veraval,2022-02-20,Fire,214,Medical Team,Needs Improvement
+DRL011,Kandla,2024-12-10,Flood,393,Fire Department,Successful
+DRL012,Bhavnagar,2024-03-06,Flood,188,NDRF,Needs Improvement
+DRL013,Diu,2024-08-25,Tsunami,364,Fire Department,Well-coordinated
+DRL014,Kandla,2025-08-06,Tsunami,34,Medical Team,Well-coordinated
+DRL015,Kandla,2025-05-21,Earthquake,480,Red Cross,Successful
+DRL016,Veraval,2022-10-20,Tsunami,193,Medical Team,Needs Improvement
+DRL017,Diu,2024-06-14,Earthquake,172,Red Cross,Needs Improvement
+DRL018,Bharuch,2025-05-07,Fire,450,NDRF,Needs Improvement
+DRL019,Bhavnagar,2023-10-13,Fire,173,Red Cross,Well-coordinated
+DRL020,Diu,2024-03-22,Flood,209,Red Cross,Successful
+DRL021,Kandla,2023-03-18,Fire,257,Red Cross,Well-coordinated
+DRL022,Kandla,2022-11-23,Flood,490,Red Cross,Needs Improvement
+DRL023,Mundra,2022-05-25,Flood,318,Medical Team,Well-coordinated
+DRL024,Mundra,2023-06-06,Earthquake,149,Local NGO,Successful
+DRL025,Bhavnagar,2024-10-05,Tsunami,366,Fire Department,Successful
+DRL026,Porbandar,2025-02-03,Cyclone,455,Local NGO,Needs Improvement
+DRL027,Okha,2024-01-04,Earthquake,240,NDRF,Needs Improvement
+DRL028,Veraval,2024-05-22,Tsunami,20,NDRF,Well-coordinated
+DRL029,Ghogha,2023-08-27,Fire,311,Medical Team,Successful
+DRL030,Surat,2024-03-10,Cyclone,370,Medical Team,Successful
+DRL031,Diu,2023-03-20,Flood,296,NDRF,Successful
+DRL032,Mundra,2022-07-04,Fire,129,Medical Team,Well-coordinated
+DRL033,Okha,2023-10-31,Fire,233,NDRF,Needs Improvement
+DRL034,Mundra,2024-09-30,Tsunami,200,Medical Team,Successful
+DRL035,Diu,2024-11-07,Tsunami,219,Red Cross,Well-coordinated
+DRL036,Diu,2024-02-13,Flood,320,Medical Team,Well-coordinated
+DRL037,Surat,2025-05-17,Earthquake,413,NDRF,Needs Improvement
+DRL038,Mundra,2024-10-06,Tsunami,153,Medical Team,Successful
+DRL039,Ghogha,2023-02-01,Earthquake,222,Medical Team,Well-coordinated
+DRL040,Mundra,2022-09-28,Earthquake,44,Local NGO,Successful
+DRL041,Veraval,2022-06-15,Flood,287,Fire Department,Needs Improvement
+DRL042,Ghogha,2022-03-17,Flood,56,Medical Team,Well-coordinated
+DRL043,Mundra,2025-05-24,Cyclone,216,Medical Team,Well-coordinated
+DRL044,Okha,2023-05-02,Earthquake,248,NDRF,Successful
+DRL045,Kandla,2025-04-18,Earthquake,196,Red Cross,Needs Improvement
+DRL046,Kandla,2024-04-27,Flood,244,Medical Team,Needs Improvement
+DRL047,Diu,2022-07-01,Flood,48,Local NGO,Successful
+DRL048,Diu,2023-09-06,Cyclone,165,Medical Team,Successful
+DRL049,Bharuch,2023-03-09,Fire,183,Red Cross,Well-coordinated
+DRL050,Bhavnagar,2024-06-08,Earthquake,309,NDRF,Well-coordinated
+DRL051,Mundra,2022-12-25,Earthquake,163,Local NGO,Well-coordinated
+DRL052,Bharuch,2024-03-09,Earthquake,467,Fire Department,Well-coordinated
+DRL053,Mundra,2023-09-22,Flood,166,Medical Team,Needs Improvement
+DRL054,Okha,2025-06-05,Fire,292,NDRF,Well-coordinated
+DRL055,Ghogha,2022-01-09,Cyclone,394,Medical Team,Successful
+DRL056,Okha,2022-01-17,Fire,74,NDRF,Well-coordinated
+DRL057,Diu,2022-10-07,Flood,252,Medical Team,Successful
+DRL058,Veraval,2023-10-23,Fire,340,Local NGO,Needs Improvement
+DRL059,Bhavnagar,2025-05-14,Earthquake,53,NDRF,Well-coordinated
+DRL060,Veraval,2023-04-27,Tsunami,438,NDRF,Needs Improvement
+DRL061,Surat,2024-07-02,Fire,418,Local NGO,Needs Improvement
+DRL062,Okha,2023-07-22,Fire,126,Fire Department,Successful
+DRL063,Mundra,2024-10-08,Earthquake,316,Local NGO,Needs Improvement
+DRL064,Bharuch,2024-02-29,Tsunami,450,Fire Department,Well-coordinated
+DRL065,Ghogha,2023-12-08,Cyclone,91,Red Cross,Successful
+DRL066,Ghogha,2025-08-10,Flood,293,Fire Department,Successful
+DRL067,Mundra,2022-10-25,Tsunami,494,Local NGO,Well-coordinated
+DRL068,Okha,2022-06-22,Flood,441,Fire Department,Successful
+DRL069,Diu,2022-10-23,Tsunami,86,NDRF,Needs Improvement
+DRL070,Surat,2023-11-29,Flood,94,Local NGO,Needs Improvement

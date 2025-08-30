@@ -1,0 +1,71 @@
+Campaign_ID,Campaign_Name,Date,Location,Medium,Target_Audience,Reach_Estimate,Organized_By,Remarks
+CMP001,Campaign_1,2023-02-18,Porbandar,Radio,Fishermen,9825,Red Cross,High Engagement
+CMP002,Campaign_2,2022-01-22,Ghogha,Social Media,Farmers,6147,Local NGO,High Engagement
+CMP003,Campaign_3,2025-03-04,Bharuch,Pamphlets,Local Residents,3185,Red Cross,Positive Response
+CMP004,Campaign_4,2025-03-21,Surat,Pamphlets,Farmers,2511,Medical Team,High Engagement
+CMP005,Campaign_5,2022-06-09,Bharuch,Posters,Volunteers,9075,Local NGO,Positive Response
+CMP006,Campaign_6,2022-12-31,Veraval,TV Ads,Local Residents,8657,Local NGO,Moderate Impact
+CMP007,Campaign_7,2025-07-15,Kandla,Social Media,Local Residents,4200,Fire Department,High Engagement
+CMP008,Campaign_8,2025-08-23,Porbandar,Social Media,Students,8317,Fire Department,Positive Response
+CMP009,Campaign_9,2023-08-28,Ghogha,Social Media,Local Residents,1524,Medical Team,High Engagement
+CMP010,Campaign_10,2024-06-27,Mundra,Posters,Farmers,6018,Fire Department,Positive Response
+CMP011,Campaign_11,2024-08-27,Bhavnagar,Pamphlets,Local Residents,8067,NDRF,Positive Response
+CMP012,Campaign_12,2022-06-15,Veraval,Social Media,Volunteers,3846,NDRF,High Engagement
+CMP013,Campaign_13,2024-03-29,Bhavnagar,TV Ads,Volunteers,6347,Fire Department,Moderate Impact
+CMP014,Campaign_14,2025-04-02,Ghogha,Social Media,Students,1371,Fire Department,Positive Response
+CMP015,Campaign_15,2022-06-16,Veraval,TV Ads,Volunteers,535,NDRF,Positive Response
+CMP016,Campaign_16,2024-09-06,Diu,Radio,Local Residents,9985,Local NGO,Positive Response
+CMP017,Campaign_17,2022-12-22,Mundra,Street Play,Local Residents,1088,NDRF,High Engagement
+CMP018,Campaign_18,2024-11-19,Diu,Posters,Volunteers,569,Medical Team,High Engagement
+CMP019,Campaign_19,2024-05-25,Diu,Posters,Local Residents,1533,Red Cross,Positive Response
+CMP020,Campaign_20,2024-02-13,Diu,Social Media,Government Officials,8951,Red Cross,Moderate Impact
+CMP021,Campaign_21,2024-05-29,Surat,Pamphlets,Volunteers,1633,Fire Department,High Engagement
+CMP022,Campaign_22,2025-03-24,Bharuch,Social Media,Volunteers,2629,Local NGO,High Engagement
+CMP023,Campaign_23,2023-09-19,Mundra,TV Ads,Volunteers,6134,Local NGO,Moderate Impact
+CMP024,Campaign_24,2022-12-19,Porbandar,Social Media,Farmers,1904,Local NGO,Moderate Impact
+CMP025,Campaign_25,2025-05-27,Kandla,TV Ads,Volunteers,2360,Fire Department,Moderate Impact
+CMP026,Campaign_26,2025-05-05,Surat,Posters,Government Officials,3098,Red Cross,Positive Response
+CMP027,Campaign_27,2023-06-13,Porbandar,Radio,Students,4902,Fire Department,High Engagement
+CMP028,Campaign_28,2022-04-27,Mundra,Pamphlets,Students,6833,Fire Department,Positive Response
+CMP029,Campaign_29,2023-10-26,Kandla,TV Ads,Students,8914,Medical Team,Positive Response
+CMP030,Campaign_30,2023-05-08,Bhavnagar,Street Play,Volunteers,9778,Fire Department,High Engagement
+CMP031,Campaign_31,2024-05-07,Diu,Social Media,Local Residents,4810,NDRF,Moderate Impact
+CMP032,Campaign_32,2025-04-16,Bharuch,Street Play,Volunteers,6341,Fire Department,Moderate Impact
+CMP033,Campaign_33,2022-04-03,Ghogha,Radio,Fishermen,1344,Red Cross,Positive Response
+CMP034,Campaign_34,2024-04-16,Veraval,TV Ads,Local Residents,3162,Red Cross,Positive Response
+CMP035,Campaign_35,2023-08-22,Bharuch,Posters,Volunteers,6244,Medical Team,High Engagement
+CMP036,Campaign_36,2024-08-14,Surat,Street Play,Students,1036,NDRF,Moderate Impact
+CMP037,Campaign_37,2024-08-31,Mundra,Social Media,Government Officials,9853,Fire Department,High Engagement
+CMP038,Campaign_38,2025-03-18,Bharuch,Posters,Fishermen,8544,NDRF,High Engagement
+CMP039,Campaign_39,2023-10-08,Porbandar,Street Play,Farmers,9834,Red Cross,Moderate Impact
+CMP040,Campaign_40,2025-03-05,Bharuch,Posters,Farmers,7069,Red Cross,Positive Response
+CMP041,Campaign_41,2022-11-14,Mundra,Posters,Farmers,4267,Local NGO,Moderate Impact
+CMP042,Campaign_42,2023-03-29,Diu,Social Media,Fishermen,527,Local NGO,High Engagement
+CMP043,Campaign_43,2023-10-05,Ghogha,TV Ads,Government Officials,150,Red Cross,Positive Response
+CMP044,Campaign_44,2023-12-29,Bharuch,Pamphlets,Fishermen,5184,Fire Department,Moderate Impact
+CMP045,Campaign_45,2024-09-28,Okha,Posters,Local Residents,7763,Local NGO,Positive Response
+CMP046,Campaign_46,2025-07-16,Ghogha,Social Media,Fishermen,8057,Red Cross,High Engagement
+CMP047,Campaign_47,2022-12-22,Diu,Street Play,Farmers,7730,Medical Team,High Engagement
+CMP048,Campaign_48,2022-01-17,Kandla,Radio,Government Officials,670,Medical Team,High Engagement
+CMP049,Campaign_49,2023-09-05,Veraval,Posters,Students,4086,Fire Department,Moderate Impact
+CMP050,Campaign_50,2023-03-15,Ghogha,TV Ads,Farmers,7017,Fire Department,Positive Response
+CMP051,Campaign_51,2022-12-17,Diu,Posters,Government Officials,6771,Red Cross,High Engagement
+CMP052,Campaign_52,2022-04-25,Diu,Radio,Local Residents,5456,Medical Team,Moderate Impact
+CMP053,Campaign_53,2023-01-08,Surat,Social Media,Local Residents,9483,NDRF,Positive Response
+CMP054,Campaign_54,2024-03-27,Veraval,Posters,Volunteers,5648,Red Cross,High Engagement
+CMP055,Campaign_55,2024-07-10,Surat,Pamphlets,Students,3336,Red Cross,Positive Response
+CMP056,Campaign_56,2024-02-17,Diu,Posters,Fishermen,3597,NDRF,Positive Response
+CMP057,Campaign_57,2022-06-15,Veraval,Pamphlets,Local Residents,9570,Red Cross,High Engagement
+CMP058,Campaign_58,2023-03-08,Surat,Posters,Farmers,294,NDRF,Positive Response
+CMP059,Campaign_59,2024-09-22,Bharuch,Radio,Local Residents,2715,Local NGO,Moderate Impact
+CMP060,Campaign_60,2025-07-05,Bharuch,Social Media,Farmers,2365,Red Cross,Moderate Impact
+CMP061,Campaign_61,2024-07-22,Mundra,Street Play,Students,1972,Red Cross,Moderate Impact
+CMP062,Campaign_62,2023-02-06,Okha,Pamphlets,Fishermen,5299,Fire Department,Positive Response
+CMP063,Campaign_63,2023-08-03,Surat,Radio,Volunteers,8030,Red Cross,Positive Response
+CMP064,Campaign_64,2022-02-26,Ghogha,Street Play,Volunteers,274,NDRF,Positive Response
+CMP065,Campaign_65,2024-10-21,Veraval,Radio,Volunteers,528,Fire Department,Moderate Impact
+CMP066,Campaign_66,2023-10-01,Porbandar,Street Play,Students,4965,NDRF,Positive Response
+CMP067,Campaign_67,2025-05-31,Ghogha,Radio,Farmers,117,NDRF,Moderate Impact
+CMP068,Campaign_68,2023-04-20,Mundra,Pamphlets,Fishermen,4429,Red Cross,Moderate Impact
+CMP069,Campaign_69,2025-07-25,Surat,Posters,Volunteers,1343,Fire Department,Moderate Impact
+CMP070,Campaign_70,2022-06-17,Porbandar,Posters,Local Residents,7453,Fire Department,Moderate Impact

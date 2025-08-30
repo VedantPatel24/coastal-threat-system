@@ -1,0 +1,21 @@
+project_id,project_name,description,location,start_date,end_date,budget,status,created_at,updated_at
+P011,Kandla Project 1,Environmental project 1 in Kandla,Kandla,2025-05-12,2025-09-2,65334,Ongoing,2025-08-30,2025-08-30
+P012,Kandla Project 2,Environmental project 2 in Kandla,Kandla,2025-03-13,2025-07-16,64231,Completed,2025-08-30,2025-08-30
+P021,Surat Project 1,Environmental project 1 in Surat,Surat,2025-02-13,2025-011-18,152236,Ongoing,2025-08-30,2025-08-30
+P022,Surat Project 2,Environmental project 2 in Surat,Surat,2025-06-20,2025-08-19,196045,Ongoing,2025-08-30,2025-08-30
+P031,Porbandar Project 1,Environmental project 1 in Porbandar,Porbandar,2025-04-3,2025-011-28,93773,Completed,2025-08-30,2025-08-30
+P032,Porbandar Project 2,Environmental project 2 in Porbandar,Porbandar,2025-01-10,2025-011-2,162592,Planned,2025-08-30,2025-08-30
+P041,Ghogha Project 1,Environmental project 1 in Ghogha,Ghogha,2025-03-11,2025-07-3,195987,Ongoing,2025-08-30,2025-08-30
+P042,Ghogha Project 2,Environmental project 2 in Ghogha,Ghogha,2025-01-24,2025-09-5,113657,Completed,2025-08-30,2025-08-30
+P051,Mundra Project 1,Environmental project 1 in Mundra,Mundra,2025-06-19,2025-09-12,128132,Completed,2025-08-30,2025-08-30
+P052,Mundra Project 2,Environmental project 2 in Mundra,Mundra,2025-03-20,2025-07-21,60130,Ongoing,2025-08-30,2025-08-30
+P061,Bharuch Project 1,Environmental project 1 in Bharuch,Bharuch,2025-04-12,2025-07-3,99151,Planned,2025-08-30,2025-08-30
+P062,Bharuch Project 2,Environmental project 2 in Bharuch,Bharuch,2025-04-13,2025-010-4,72487,Completed,2025-08-30,2025-08-30
+P071,Okha Project 1,Environmental project 1 in Okha,Okha,2025-03-18,2025-07-5,116502,Completed,2025-08-30,2025-08-30
+P072,Okha Project 2,Environmental project 2 in Okha,Okha,2025-06-10,2025-08-23,176330,Ongoing,2025-08-30,2025-08-30
+P081,Bhavnagar Project 1,Environmental project 1 in Bhavnagar,Bhavnagar,2025-03-3,2025-010-12,171515,Planned,2025-08-30,2025-08-30
+P082,Bhavnagar Project 2,Environmental project 2 in Bhavnagar,Bhavnagar,2025-03-21,2025-010-27,169881,Planned,2025-08-30,2025-08-30
+P091,Veraval Project 1,Environmental project 1 in Veraval,Veraval,2025-04-20,2025-010-17,127330,Ongoing,2025-08-30,2025-08-30
+P092,Veraval Project 2,Environmental project 2 in Veraval,Veraval,2025-06-16,2025-09-28,166448,Completed,2025-08-30,2025-08-30
+P101,Diu Project 1,Environmental project 1 in Diu,Diu,2025-06-3,2025-07-6,170282,Planned,2025-08-30,2025-08-30
+P102,Diu Project 2,Environmental project 2 in Diu,Diu,2025-05-17,2025-012-5,133140,Completed,2025-08-30,2025-08-30

@@ -1,0 +1,31 @@
+shelter_id,shelter_name,location,address,latitude,longitude,capacity,contact_person,contact_number,status
+S001,Kandla Shelter 1,Kandla,"Kandla Area 1, Main Road",21.999,72.06,489,Person 1,9123400001,Active
+S002,Kandla Shelter 2,Kandla,"Kandla Area 2, Main Road",21.562,71.363,1657,Person 2,9123400002,Under Maintenance
+S003,Kandla Shelter 3,Kandla,"Kandla Area 3, Main Road",22.312,70.643,1032,Person 3,9123400003,Active
+S004,Surat Shelter 1,Surat,"Surat Area 1, Main Road",20.265,74.491,845,Person 4,9123400004,Active
+S005,Surat Shelter 2,Surat,"Surat Area 2, Main Road",24.096,73.732,321,Person 5,9123400005,Under Maintenance
+S006,Surat Shelter 3,Surat,"Surat Area 3, Main Road",23.037,72.51,1902,Person 6,9123400006,Active
+S007,Porbandar Shelter 1,Porbandar,"Porbandar Area 1, Main Road",24.106,73.087,501,Person 7,9123400007,Under Maintenance
+S008,Porbandar Shelter 2,Porbandar,"Porbandar Area 2, Main Road",22.514,72.391,784,Person 8,9123400008,Under Maintenance
+S009,Porbandar Shelter 3,Porbandar,"Porbandar Area 3, Main Road",22.413,74.355,1385,Person 9,9123400009,Active
+S010,Ghogha Shelter 1,Ghogha,"Ghogha Area 1, Main Road",24.901,72.548,206,Person 10,9123400010,Active
+S011,Ghogha Shelter 2,Ghogha,"Ghogha Area 2, Main Road",24.754,73.184,1774,Person 11,9123400011,Under Maintenance
+S012,Ghogha Shelter 3,Ghogha,"Ghogha Area 3, Main Road",22.969,72.27,255,Person 12,9123400012,Active
+S013,Mundra Shelter 1,Mundra,"Mundra Area 1, Main Road",21.14,71.689,1579,Person 13,9123400013,Under Maintenance
+S014,Mundra Shelter 2,Mundra,"Mundra Area 2, Main Road",24.432,70.153,1285,Person 14,9123400014,Under Maintenance
+S015,Mundra Shelter 3,Mundra,"Mundra Area 3, Main Road",23.991,71.309,1390,Person 15,9123400015,Under Maintenance
+S016,Bharuch Shelter 1,Bharuch,"Bharuch Area 1, Main Road",21.747,70.184,1763,Person 16,9123400016,Active
+S017,Bharuch Shelter 2,Bharuch,"Bharuch Area 2, Main Road",22.65,72.176,330,Person 17,9123400017,Active
+S018,Bharuch Shelter 3,Bharuch,"Bharuch Area 3, Main Road",23.079,74.883,1054,Person 18,9123400018,Active
+S019,Okha Shelter 1,Okha,"Okha Area 1, Main Road",23.724,73.873,1318,Person 19,9123400019,Under Maintenance
+S020,Okha Shelter 2,Okha,"Okha Area 2, Main Road",23.741,72.177,452,Person 20,9123400020,Active
+S021,Okha Shelter 3,Okha,"Okha Area 3, Main Road",20.473,74.388,1665,Person 21,9123400021,Under Maintenance
+S022,Bhavnagar Shelter 1,Bhavnagar,"Bhavnagar Area 1, Main Road",20.492,73.168,1703,Person 22,9123400022,Active
+S023,Bhavnagar Shelter 2,Bhavnagar,"Bhavnagar Area 2, Main Road",20.785,71.003,1383,Person 23,9123400023,Active
+S024,Bhavnagar Shelter 3,Bhavnagar,"Bhavnagar Area 3, Main Road",20.086,74.342,1488,Person 24,9123400024,Active
+S025,Veraval Shelter 1,Veraval,"Veraval Area 1, Main Road",21.243,74.228,931,Person 25,9123400025,Under Maintenance
+S026,Veraval Shelter 2,Veraval,"Veraval Area 2, Main Road",22.049,70.271,1122,Person 26,9123400026,Under Maintenance
+S027,Veraval Shelter 3,Veraval,"Veraval Area 3, Main Road",20.572,73.557,1738,Person 27,9123400027,Under Maintenance
+S028,Diu Shelter 1,Diu,"Diu Area 1, Main Road",24.983,72.764,1411,Person 28,9123400028,Under Maintenance
+S029,Diu Shelter 2,Diu,"Diu Area 2, Main Road",20.328,71.678,684,Person 29,9123400029,Under Maintenance
+S030,Diu Shelter 3,Diu,"Diu Area 3, Main Road",22.229,70.162,1124,Person 30,9123400030,Under Maintenance

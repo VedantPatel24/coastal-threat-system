@@ -10,6 +10,17 @@ load_dotenv()
 
 Base = declarative_base()
 
+class User(Base):
+    __tablename__ = "users"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    email = Column(String, unique=True, index=True, nullable=False)
+    department = Column(String, nullable=False)  # Disaster Management, Coastal City Government, etc.
+    password_hash = Column(String, nullable=False)
+    created_at = Column(DateTime, default=datetime.utcnow)
+    last_login = Column(DateTime)
+    is_active = Column(Boolean, default=True)
+
 class WeatherData(Base):
     __tablename__ = "weather_data"
     
@@ -25,7 +36,7 @@ class WeatherData(Base):
     source = Column(String, default="openweather")
 
 class TideData(Base):
-    __tablename__ = "tide_data"
+    __tablename__ = "tides"
     
     id = Column(Integer, primary_key=True, index=True)
     timestamp = Column(DateTime, default=datetime.utcnow)

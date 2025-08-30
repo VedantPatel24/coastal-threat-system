@@ -1,0 +1,31 @@
+Location,Resource,Quantity
+Kandla,Food,48
+Kandla,Shelter,31
+Kandla,Medical Kit,42
+Surat,Food,82
+Surat,Shelter,10
+Surat,Medical Kit,100
+Porbandar,Food,49
+Porbandar,Shelter,36
+Porbandar,Medical Kit,64
+Ghogha,Food,15
+Ghogha,Shelter,89
+Ghogha,Medical Kit,16
+Mundra,Food,45
+Mundra,Shelter,38
+Mundra,Medical Kit,56
+Bharuch,Food,66
+Bharuch,Shelter,57
+Bharuch,Medical Kit,82
+Okha,Food,59
+Okha,Shelter,68
+Okha,Medical Kit,7
+Bhavnagar,Food,87
+Bhavnagar,Shelter,28
+Bhavnagar,Medical Kit,31
+Veraval,Food,25
+Veraval,Shelter,87
+Veraval,Medical Kit,42
+Diu,Food,21
+Diu,Shelter,17
+Diu,Medical Kit,34
