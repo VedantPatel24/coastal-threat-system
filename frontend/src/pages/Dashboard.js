@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import MapView from '../components/MapView';
 import AlertList from '../components/AlertList';
-import Charts from '../components/Charts';
 import FloodAnalytics from '../components/FloodAnalytics';
 import LocationSelector from '../components/LocationSelector';
 import HelpTooltip from '../components/HelpTooltip';
@@ -169,7 +168,6 @@ const Dashboard = ({ onBackToWelcome }) => {
 
   const tabs = [
     { id: 'overview', name: 'Overview', icon: '📊', description: 'Real-time coastal monitoring' },
-    { id: 'charts', name: 'Analytics', icon: '📈', description: 'Historical trends & patterns' },
     { id: 'flood-analytics', name: 'Flood Analytics', icon: '🌊', description: 'Comprehensive flood analysis' },
     { id: 'locations', name: 'Locations', icon: '🌊', description: 'Gujarat coastal cities' }
   ];
@@ -453,14 +451,6 @@ const Dashboard = ({ onBackToWelcome }) => {
                 </HelpTooltip>
               </div>
             </div>
-          </div>
-        );
-      
-      case 'charts':
-        return (
-          <div className="pro-card p-8">
-            <h2 className="heading-2 mb-6">📈 Historical Trends & Analytics</h2>
-            <Charts weatherData={weatherData} tideData={tideData} oceanData={oceanData} />
           </div>
         );
       

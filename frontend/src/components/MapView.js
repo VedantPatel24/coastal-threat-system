@@ -380,33 +380,33 @@ const MapView = ({ weatherData, tideData, alerts = [], onLocationClick, currentL
 
   return (
     <div className="relative h-full w-full">
-      {/* Enhanced Map Legend with better positioning */}
-      <div className="absolute top-4 left-4 z-[1000] bg-white bg-opacity-95 backdrop-blur-sm rounded-xl shadow-2xl p-4 border border-gray-200 max-w-xs">
-        <h3 className="font-bold text-lg text-gray-800 mb-3">🗺️ Map Legend</h3>
-        <div className="space-y-3 text-sm">
-          <div className="flex items-center space-x-3">
-            <div className="w-5 h-5 bg-blue-500 rounded-full shadow-lg border-2 border-white"></div>
+      {/* Compact Map Legend */}
+      <div className="absolute top-4 left-4 z-[1000] bg-white bg-opacity-95 backdrop-blur-sm rounded-lg shadow-lg p-3 border border-gray-200 max-w-48">
+        <h3 className="font-semibold text-base text-gray-800 mb-2">🗺️ Legend</h3>
+        <div className="space-y-2 text-xs">
+          <div className="flex items-center space-x-2">
+            <div className="w-3 h-3 bg-blue-500 rounded-full shadow-sm border border-white"></div>
             <span className="font-medium">Weather Station</span>
           </div>
-          <div className="flex items-center space-x-3">
-            <div className="w-5 h-5 bg-teal-500 rounded-full shadow-lg border-2 border-white"></div>
+          <div className="flex items-center space-x-2">
+            <div className="w-3 h-3 bg-teal-500 rounded-full shadow-sm border border-white"></div>
             <span className="font-medium">Tide Station</span>
           </div>
-          <div className="flex items-center space-x-3">
-            <div className="w-5 h-5 bg-red-500 rounded-full shadow-lg border-2 border-white animate-pulse"></div>
+          <div className="flex items-center space-x-2">
+            <div className="w-3 h-3 bg-red-500 rounded-full shadow-sm border border-white animate-pulse"></div>
             <span className="font-medium">Alert Zones</span>
           </div>
-          <div className="flex items-center space-x-3">
-            <div className="w-5 h-5 bg-green-500 rounded-full opacity-20 border-2 border-green-500"></div>
+          <div className="flex items-center space-x-2">
+            <div className="w-3 h-3 bg-green-500 rounded-full opacity-20 border border-green-500"></div>
             <span className="font-medium">Coastal Boundary</span>
           </div>
         </div>
-        <div className="mt-4 pt-3 border-t border-gray-200">
+        <div className="mt-3 pt-2 border-t border-gray-200">
           <div className="text-xs text-gray-600">
-            <strong>📍 Monitoring:</strong> {getLocationCoordinates().name}
+            <strong>📍</strong> {getLocationCoordinates().name}
           </div>
-          <div className="text-xs text-gray-500 mt-1">
-            <strong>🌊 Port Type:</strong> {getLocationCoordinates().port_type}
+          <div className="text-xs text-gray-500">
+            <strong>🌊</strong> {getLocationCoordinates().port_type}
           </div>
         </div>
       </div>
